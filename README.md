@@ -8,6 +8,10 @@ Standard operating system print dialogs often fall short when dealing with home 
 
 Smart Print Manager bridges this gap. It provides a dedicated, intelligent engine that handles the complex logic of manual duplexing, page rotation, and selective printing, all wrapped in a clean, modern user interface.
 
+<p align="center">
+  <img src="preview.png" width="70%">
+</p>
+
 ## Core Features
 
 - **Intelligent Manual Duplexing:** Automatically splits print jobs into sequential odd and even passes. It intelligently pauses your print queue, prompts you to flip the physical paper stack, and automatically pads odd-numbered print jobs with a blank page to ensure the final sheet aligns perfectly.
