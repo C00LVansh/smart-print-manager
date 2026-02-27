@@ -60,11 +60,6 @@ Smart Print Manager bridges this gap. It provides a dedicated, intelligent engin
 
 4. The executable will be inside the `dist` folder.
 
-
-To add a custom icon:
-
-    pyinstaller --noconsole --onefile --icon=your_icon.ico smart_print.py
-
 ## License
 
 This project is licensed under the MIT License.
